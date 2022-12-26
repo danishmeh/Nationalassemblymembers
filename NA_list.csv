@@ -1,0 +1,341 @@
+NA Seat,Name,Party,Profession/Education,Address,Contact
+NA-1Chitral,Moulana Abdul Akbar Chitrali,MMAP,B.ED,"Village Broze Goldeh, Tehsil & District Chitral  G-408, Parliament Lodges, Islamabad","0345-9411119, 0333-9100811"
+NA-2Swat-I,Dr. Haider Ali Khan,PTI,MBBS,"Khawza Khela, Swat.  C-302, Parliament Lodges, Islamabad","0946-745333, 0300-5749444"
+NA-3Swat-II,Mr. Saleem Rehman,PTI,FA,"Shandara Mingora, Tehsil Babuzai, District Swat.  H-406, Parliament Lodges, Islamabad","0946-722335, 0333-9279679"
+NA-4Swat-III,Mr. Murad Saeed,PTI,Bachelor in Environmental Sciences,"Mohalla Sher Mohd Sher Village and P.O.  Kabal District Swat  H.No.6, Minister Enclave, Islamabad",0300-0848410
+NA-5Upper Dir,Sahibzada Sibghatullah,PTI,M.A in Political Science,"Village Kotkey Sahib Abad Wari.  H-412, Parliament Lodges, Islamabad","0944-884005, 0313-8802230, 0343-8802230"
+NA-6Lower Dir-I,Mr. Mehboob Shah,PTI,Matric,"Kotigram Bala, Tehsil Adenzai, Lower Dir.  G-307, Parliament Lodges, Islamabad","051-5534788, 0300-5704044"
+NA-7Lower Dir-II,Mr. Muhammad Bashir Khan,PTI,MA LLB,"Gambir mayar, Tehsil Samarbagh, District Dir Lower.  J-01, Parliament Lodges, Islamabad","0302-5519355, 0346-9393991"
+NA-8Malakand Protected Area,Mr. Junaid Akbar,PTI,MBA ,"Mohallah Amjad Shaheed Colony Thana Tehsil Batkhela District Malakand.  J-411, Parliament Lodges, Islamabad",0300-5845411
+NA-9Buner,Mr. Sher Akbar Khan,PTI,BA & LLB,"Village Rega Tehsil Gagra, Buner.  A-09 Parliament Lodges, Islamabad","0939-555111, 0333-9691133"
+NA-10Shangla,Mr. Ibadullah Khan,PML-N,Bachelor in Dental Surgery,"P/O Khaas Chagum Tehsil Puran District Shangla.  J-312, Par liament Lodges, Islamabad",0347-4444544
+NA-11Kohistan-cum-Lower Kohistan-cum-Kolai Pallas Kohistan,Mr. Afreen Khan,MMAP,Matric,"Kuz Thoti Kandia Kohistan.  J-112, Parliament Lodges, Islamabad",0300-3968667
+NA-12Battagram,Prince Muhammad Nawaz Allai,PTI,Bachelor in Arts,"Village Biari Tehsil Allai District Battagram.  J-504, Parliament Lodges, Islamabad","0345-9610009, 0300-5274255"
+NA-13Mansehra-I,Mr. Saleh Muhammad,PTI,Master,"Mujahidabad, Post Office Baffa, Tehsil Baffa, District Mansehra.  F-210, Parliament Lodges, Islamabad","0997-300245, 0300-9114455"
+NA-14Mansehra-cum-Torghar,Mr. Muhammad Sajjad,PML-N,FA,"Dab No.1, Safdar Road, Mansehra.  H-306, Parliament Lodges, Islamabad","0300-8115675, 0300-9115675"
+NA-15Abbottabad-I,Mr. Murtaza Javed Abbasi,PML-N,Business man,"Hothla Post Office Seer Gharbi Tehsil & District Abbottabad.  A-108, Parliament Lodges, Islamabad",0300-9111802
+NA-16Abbottabad-II,Mr. Ali Khan Jadoon,PTI,Business man,"Jadoon House, Mansehra Road, Abbottabad.  House No. 4, Street No. 25, F-8/2, Islamabad.Room No 609, 6th Floor, State Bank Building, Islamabad","0345-8522234, 0322-8522234, 051-9245742"
+NA-17Haripur-I,Mr. Omar Ayub Khan,PTI,MBA ,"House No.206 Rehana, Haripur.  H # 320, St. 58, F-10/3, Islamabad",0300-8555354
+NA-18Swabi-I,Mr. Asad Qaiser,PTI,Bachelor of Arts,"Village/PO. Marghuz, Tehsil Topi, District Swabi, Khyber Pakhtunkhwa.  Speaker House, Minister Enclave, Islamabad",N/A
+NA-19Swabi-II,Engr. Usman Khan Tarakai,PTI,BSc in Electrical Engineering,"Moh: Babi Khail V&PO Tarakai, Tehsil Razar, District Swabi.  C-306, Parliament Lodges, Islamabad","0300-9040418,  0332-9040418"
+NA-20Mardan-I,Mr. Mujahid Ali,PTI,BSc,"Saifur Abad P/O Par Hoti Tehsil & District Mardan.  J-04, Parliament Lodges, Islamabad","0937-560777, 0300-5739968"
+NA-21Mardan-II,Mr. Amir Haider Azam Khan,ANP,BA,"Near Khyber Tobacco Company, Nowshera Road, Mardan.  J-207 Parliament Lodges Islamabad",0334-9175667
+NA-22Mardan-III,Mr. Ali Muhammad Khan,PTI,Engineer & LLB,"Pir Muhammad Khan Kaly Hathian Tehsil Takht Bhai, District Mardan.  A-107, Parliament Lodges, Islamabad","0937-821080, 0343-9151109"
+NA-23Charsadda-I,Mr. Malik Anwar Taj,PTI,LLB,"Moh: Daryab Korona Shabqadar, District Charsadda.  J-03 Parliament Lodges, Islamabad",0333-9444409
+NA-24Charsadda-II,Mr. Fazal Muhammad Khan,PTI,BA,"Sheikh Abad Tehsil and District Charsadda.  Suite No. 3, Govt. Hostel, Islamabad","091-6560220, 0300-8586703"
+NA-25Nowshera-I,Mr. Pervez Khattak,PTI,BA,"Badrashi Khel, Manki Sharif, Teh  and District Nowshera",0300-8583450
+NA-26Nowshera-II,Mr. Imran Khattak,PTI,MBBS,"Manki Sharif, Nowshera.  H-307, Parliament Lodges, Islamabad","0300-5779367, 0312-5779367"
+NA-27Peshawar-I,Mr. Noor Alam Khan,PTI,BA,"Village Haryana Payan Peshawar.  C-108, Parliament Lodges, Islamabad","091-5223082, 0333-9179662"
+NA-28Peshawar-II,Mr. Arbab Amir Ayub,PTI,Graudation in Marketing,"Sir Syed Road, P/O GPO, House No.65 Peshawar Cantt Peshawar.  H-407, Parliament Lodges, Islamabad",0300-8580888
+NA-29Peshawar-III,Mr. Nasir Khan Musazai,PTI,FA,"Musa Zai House, Phandu Road, PO Musa Zai Tehsil & District Peshawar.  G-404, Parliament Lodges Islamabad","0300-8155466, 091-5891744"
+NA-30Peshawar-IV,Mr. Sher Ali Arbab,PTI,Masters in Information Tehnology,"Nawab Sahib, Tehkal Bala, Tehsil & District Peshawar.  Suite No. 38, Government Hostel, Islamabad","0300-8559383, 091-9239222, 091-5845089"
+NA-31Peshawar-V,Mr. Shaukat Ali,PTI,Bachelors in Arts,"Shah Qabool Colony No.2, House No.9, Peshawar.  J-402, Parliament Lodges, Islamabad","0300-8593333, 0345-2772255"
+NA-32Kohat,Mr. Shehryar Afridi,PTI,Masters in IR,"Mohallah Ghari Resaldar, Hangu Road Kohat.",0300-5275258
+NA-34Karak,Mr. Shahid Ahmad,PTI,Masters (Food Science and Technology).,"Hadda Banda Tehsil Takht-eNasrati, District Karak.  G-206, Parliament Lodges, Islamabad",0345-5917470
+NA-35Bannu,"Mr. Zahid Akram Durrani, Deputy Speaker National Assembly",MMAP,FA,"Miwakhel, Post Office Fazil-e-Haq Malwana, Bannu  Durrani House, Main Park Road, Chattha Bakhtawar, Islamabad",3009030009
+NA-36Lakki Marwat,Mr. Muhammad Anwar,MMAP,Matric/ Shahdat e Almiya,"Halima Town Dara Pezu, Lakki Marwat.  Suite No.40, Govt. Hostel, Islamabad",0345-4881600
+NA-37Tank,Mr. Asad Mahmood,MMAP,Bachelor in Arts,"Abdul Khel PO Abdul Khel Tehsil Paharpur District D.I.Khan.  House No.7, Street No. 83, G-6/4, Islamabad","0966-740555, 0345-9870987"
+NA-38Dera Ismail Khan-I,Mr. Ali Amin Khan,PTI,BA,"Al-Amin College Road, D.I.Khan.  G-412, Parliament Lodges, Islamabad",0300-5701411
+NA-39Dera Ismail Khan-II,Mr. Muhammad Yaqoob Shaikh,PTI,Businessman,"H. No.19. Allarna Iqbal Road. D.1.Khan Cantt  H-301 Parliament Lodges, Islamabad","051-8357896, 0321-2013800"
+NA-40Bajaur Agency-I Tribal Area-I,Mr. Gul Dad Khan,PTI,Masters,"Zeni Khel Mor Darra Tehsil Barang Bajaur.  Lodge No. H-401, Parliament Lodges, Islamabad",0301-2280614
+NA-41Bajaur Agency-II Tribal Area-II,Mr. Gul Zafar Khan,PTI,Matric ,"Village Bar Gatkai Tehsil Mamund.  J-408, Parliament Lodges, Islamabad","0300-3666691, 0300-5634545"
+NA-42Mohmand Agency Tribal Area-III,Mr. Sajid Khan,PTI,Masters in Library and Information science,"Ghallanai Khas Tehsil Halimzai, Mohammad Tribal District.  H-104, Parliament Lodges, Islamabad","0924-290211, 0343-9003001"
+NA-43Khyber Agency-I Tribal Area-IV,Mr. Noor-Ul-Haq Qadri,PTI,Ph.D Islamic Studies,"Piro Khel P/o & Tehsil Landikotal Khyber Agency.  H.No.31, Minister Enclave, Islamabad","0302-5551786, 0345-8580783"
+NA-44Khyber Agency-II Tribal Area-V,Mr. Muhammad Iqbal Khan,PTI,Matric,"Melib Din Khael, Tapa, Omer Khan KHel Kandhy, KHajari, Khyber Agency  J-509, Parliament Lodges, Islamabad",0333-6003000
+NA-45Kurram Agency-I Tribal Area-VI,Mr. Fakhar Zaman Khan,PTI,FA,"Qoum Bangash, Hassanzai, Sakhi Ahmed Shah Kalay, P.O.Sadda Tehsil Lower Kurram, Distt. Kurram",N/A
+NA-46Kurram Agency-II Tribal Area-VII,Mr. Sajid Hussain Turi,PPPP,Bachelors in Arts,"Turi Market Parachinar Tribal District Kurram.  H-403, Parliament Lodges, Islamabad","0333-3388833, 0345-9801010"
+NA-47Orakzai Agency Tribal Area-VIII,Mr. Jawad Hussain,PTI,Businessman,"Bar Muhammad Khel, Khoidad Khel, Tarangi Orakzai Agency.  A-310, Parliament Lodges, Islamabad","0333-9617809, 0301-3030814"
+NA-48North Waziristan Agency Tribal Area-IX,Mr. Mohsin Dawar,Ind,FA,"Malik Mir Jan Kot Derpakhel, North Waziristan  J-401, Parliament Lodges, Islamabad",0345-9111956
+NA-49South Waziristan Agency-I Tribal Area-X,Mr. Muhammad Jamal Ud Din,MMAP,Masters,"Mantoi P/O & Tehsil Tiarza South Waziristan Agency.  J-107, Parliament Lodges, Islamabad","0300-9090986, 0336-6617767"
+NA-50South Waziristan Agency-II Tribal Area-XI,Ali Wazir,Ind,FA,"Ghawa Khawa Tehsil Wana South Waziristan Agency.  C-201, Parliament Lodges, Islamabad","0965-211137, 0301-8798341"
+NA-51FR Tribal Area-XII,Mr. Abdul Shakoor,MMAP,Masters,"Kotka Amal Din, Tajori, District Laki Marwat  A-07, Parliament Lodges, Islamabad","0347-9101867, 0301-8833205"
+NA-52ICT-I,Raja Khurram Shahzad Nawaz,PTI,Businessman,"Mohalla Ara P.O. Khas Tumair, Tehsil & District Islamabad.  Suite No. 15 Govt. Hostel, Islamabad.",0336-5006687 0314-7865252
+NA-53ICT-II,Mr. Ali Nawaz Awan,PTI,LLM,"H.No.46-K, Street No. 39, Sector I-8/2, Islamabad  Room # 201, D-Block, Pak Secretariat, Islamabad  Office/Room No.201, 2nd Floor, Block-D, Pak Sectt. Ibd.","051-9201401,051-9203245,0336-3067025,0300-9772033"
+NA-54ICT-III,Mr. Asad Umer,PTI,MBA ,"84/II, 23rd St. Khayaban-e-. Sehar, DHA-VI, Karachi  Flat No. 716, F-10, Silver Oaks, Islamabad",N/A
+NA-55Attock-I,Mr. Tahir Sadiq,PTI,Businessman,"V&PO Bahter, Tehsil fateh Jang, District Attock.  Suite No.20 Govt. Hostel, Islamabad","0321-5738416, 0592-702031"
+NA-56Attock-II,Malik Sohail Khan,PML-N,MBA ,"Kamrial Post Office Tehsil Pindigheb, District Attock",N/A
+NA-57Rawalpindi-I,Mr. Sadaqat Ali Khan,PTI,Master of Science in Economics,"House No.728 St. No.82 Sector 1/8-4, Islamabad .  J-108, Parliament Lodges, Islamabad",0300-8501900
+NA-58Rawalpindi-II,"Raja Pervaiz Ashraf, Speaker National Assembly",PPPP,BA,"Sangar House Mohree Dhamial P.O. Kontrilla Tehsil Gujar Khan, District Rawalpindi  F-202, Parliament Lodges, Islamabad","051-2287888, 0316-5466310"
+NA-59Rawalpindi-III,Mr. Ghulam Sarwar Khan,PTI,BA,"PO Chowkar, Pind Nosheri, Tehsil Taxila, District Rawalpindi.   H.No.34, Minister Enclave, Islamabad","051-9210220,051-9314500"
+NA-60Rawalpindi-IV,Sheikh Rashid Shafique,PTI,FA,"House No.D-268 Mohallah Ganga Ram, Sarafa Bazar , Rawalpindi  Suite No. 11, Govt. Hostel, Islamabad",N/A
+NA-61Rawalpindi-V,Mr. Aamer Mehmood Kiani,PTI,LLB,"House No. NA-437, New Malpur, 7th Road, Satellite Town, Rawalpindi  H. No. 315, Mian Margalla Road, F-11/3, Islamabad",0321-5170718
+NA-62Rawalpindi-VI,Sheikh Rashid Ahmed,AMLP,LLB,"H.No.D-265, Sarafa Bazar, Rawalpindi.  H.No.36, Minister Enclave, Islamabad",N/A
+NA-63Rawalpindi-VII,Mr. Mansoor Hayat Khan,PTI,FA,"Pind Noshehri, Post Office Chokar , Tehsil Taxila, district Rawalpindi  Suite No. 14, Govt. Hostel, Islamabad",N/A
+NA-64Chakwal-I,Sardar Zulfiqar Ali Khan Dullah,PTI,LLB,"village & Post Office Dullah, Tehisl & District Chakwal.  E-405, Parliament Lodges, Islamabad","0308-5703474, 0333-4338171"
+NA-65Chakwal-II,Chaudhry Salik Hussain,PML,FA,"30-C, Zahoor Elahi Road, Gulber-II, Lahore  H.9, St. 72, F-8/3, Islamabad. H-102, Parliament Lodges, Islamabad",N/A
+NA-66Jhelum-I,Chaudhary Farrukh Altaf,PTI,BA,"Civil Line House No.BR-14 Jhelum .  G-205 Parliament Lodges, Islamabad","0544-623999, 0300-8510510"
+NA-67Jhelum-II,Mr. Fawad Ahmed,PTI,LLB,"Village & P.O. Ladhar Jhelum.  House. No.13-A St. No.8,  F-7/3, Islamabad",0300-8447141
+NA-68Gujrat-I,Mr. Hussain Elahi,PML,Graduation,"Choudary Zahoor Elahi House, Circular Road, Gujrat.  J-101, Parliament Lodges, Islamabad","051-2253335-6, 0306-6666550"
+NA-69Gujrat-II,Mr. Moonis Elahi,PML,BBA,"House No. 31-C, Mohallah Zahoor Elahi Road, Gulberg-II, Lahore  H.No.9, St. No.72, F-8/3, Islamabad",N/A
+NA-70Gujrat-III,Syed Faiz Ul Hassan,PTI,Graduation,"Kulewal Syedaan, PO Lalamusa Tehsil Kharian.  J-201, Parliament Lodges, Islamabad",0300-5539260
+NA-71Gujrat-IV,Chaudhry Abid Raza,PML-N,Masters,"Village and Post Of KotlaArab All Khan Tehsil Kharian District Gujrat.  H-309, Parliament Lodges, Islamabad","0300-6276231, 051-9213050"
+NA-72Sialkot-I,Chaudhry Armaghan Subhani,PML-N,Bachelor in Arts,"Vario, Tehsil and District Silakot.  H-109, Parliament Lodges, Islamabad",0300-8614123
+NA-73Sialkot-II,Khawaja Muhammad Asif,PML-N,LLB,"House No.118 Mehmood Ghaznavi Road Sialkot Cantt.  F-301, Parliament Lodges, Islamabad","051-9222221, 0300-8440640"
+NA-74Sialkot-III,Mr. Ali Zahid,PML-N,MBA ,"Nawaz Manzi! Mohallah Kake Zaiyan Pasrur District Sialkot.  E-108, Parliament Lodges, Islamabad",0301-2417777
+NA-75Sialkot-IV,Syeda Nosheen Iftikhar,PML-N,FA,"Village alo, Mahar Sharif, Tehsil Daska, Distt. Sialkot  J-205, Parliament Lodges, Islamabad",N/A
+NA-76Sialkot-V,Rana Shamim Ahmed Khan,PML-N,Matric,"Uggoki, P/O Same Tehsil and District Sialkot.  C-409, Parliament Lodges, Islamabad","0345-0520313, 0300-5744722"
+NA-77Narowal-I,Ms. Mehnaz Akber Aziz,PML-N,MA,"Village Ghyal tehsil Shakargarh District Narowal.  H-311, Parliament Lodges, Islamabad",N/A
+NA-78Narowal-II,Mr. Ahsan Iqbal Chaudhary,PML-N,Mechanical Engineering,"Iqbal Manzil, Jassar Bypass, Narowal  H-205, Parliament Lodges, Islamabad",0300-5012345
+NA-79Gujranwala-I,Dr. Nisar Ahmad Cheema,PML-N,MBBS,"Village Kathore Kalan, Tehsil Wazirabad District Gujranwala.  F-212, Parliament Lodges, Islamabad",0300-9640300
+NA-80Gujranwala-II,Ch Mahmood Bashir Virk,PML-N,LLB,"R/O 50-DC Road, Gujranwala  A-210, Parliament Lodges, Islamabad",0300-6420940
+NA-81Gujranwala-III,Mr. Khurram Dastgir Khan,PML-N,BS in Economics ,"House No.A-7, Satellite Town, Gujranwala.  J-310, Parliament Lodges, Islamabad",0300-8643864
+NA-82Gujranwala-IV,Mr. Usman Ibrahim,PML-N,LLB,"Street Haji Ibrahim Wali, Mohallah Gulshan Abad, Gujranwala.  J-301, Parliament Lodges, Islamabad","055-4222450, 0321-9645911"
+NA-83Gujranwala-V,Chaudhry Zulfiqar Ali Bhindar,PML-N,Bachelor in Arts,"P/O Eimanabad Dhing Wali The Kamoke District Gujranwala.  H-105, Parliament Lodges, Islamabad",0300-8628880
+NA-84Gujranwala-VI,Mr. Azhar Qayyum Nahra,PML-N,FA,"Nahra House Hafiz Abad Road Nowshera Virkan District Gujranwala.  H-310, Parliament Lodges, Islamabad",0300-8625555
+NA-85Mandi Bahauddin-I,Haji Imtiaz Ahmed Choudhary,PTI,Intermediate ,"Chak No.16, Tehsil Malakwal, Mandi Bahuddin.  E-403, Parliament Lodges, Islamabad",0321-7740017
+NA-86Mandi Bahauddin-II,Mr. Nasir Iqbal Bosal,PML-N,B.Com,"R/o Tibba Chaudhry Manak Bosal, The. Malakwal, District Mandi Bahuddin.  J-410, Parliament Lodges, Islamabad",0300-5557267
+NA-87Hafizabad-I,Ch Shoukat Ali Bhatti,PTI,Graduation,"Buraj Dara P/o Kaleki Mandi Tehsil & District Hafizabad.  A-304, Parliament Lodges, Islamabad",0300-8400012
+NA-88Sargodha-I,Dr. Malik Mukhtar Ahmad,PML-N,MBBS,"H.No.4, Khokhar Awan Ayub Chowk, Joar Town, Lahore  G-101, Parliament Lodges, Islamabad",0300-0300015
+NA-89Sargodha-II,Mr. Mohsin Nawaz Ranjha,PML-N,LLB,"Kot shah Nawaz Ghous Muhammad Wala, Tehsil Kotmomin.  J-403, Parliament Lodges, Islamabad","0302-8475982, 0301-8488893"
+NA-90Sargodha-III,Ch. Muhammad Hamid Hameed,PML-N,Graduation,"House No. 16/A, Block No. 25 Yateem Khana Road, Sargodha   H-305, Parliament Lodges, Islamabad","0322-4000440, 0300-4000440"
+NA-91Sargodha-IV,Ch. Aamir Sultan Cheema,PTI,Bachelor of Arts,"Chak No. 35 SB, Sargodha  51-A, Old Civil Lines, Sargodha",0300-8415850
+NA-92Sargodha-V,Syed Javed Hasnain,PML-N,Graduation,"Qilla Wala Shahpur City Sargodha  H-409 Parliament Lodges, Islamabad","0301-8600314, 0300-6008816"
+NA-93Khushab-I,Malik Umar Aslam Khan,PTI,Master in History,"79-A, Satellite Town Sargodha  F-205, Parliament Lodges, Islamabad","0483-215178, 0300-8709870"
+NA-94Khushab-II,Malik Muhammad Ehsan Ullah Tiwana,PTI,Bachelor in finance,"Hassan Pur Tiwana(Hamoka) Tehsil & District Khushab.  E-305, Parliament Lodges, Islamabad",0345-5850000
+NA-95Mianwali-I,Mr. Imran Khan,PTI,"Cricketer/Philosophy, Politics and Economics","Khan House Bani Gala,Mohra Noor, Islamabad",N/A
+NA-96Mianwali-II,Mr. Amjad Ali Khan,PTI,Graduation,"Gali Dr. Sher Afghan Wali, Wandhi Ghund Wali, Mianwali.  G-108, Parliament Lodges, Islamabad","0459-230958, 0301-8607030"
+NA-97Bhakkar-I,Mr. Muhammad Sana Ullah Khan Masti Khel,PTI,Bachelor in Arts,"Masti Khel HouseJandanwala P/O Same Tehsil Kallur Kot District Bhakkar.  C-208, Parliament Lodges, Islamabad","0321-5614444, 0344-5614444, 0453-440111"
+NA-98Bhakkar-II,Dr. Muhammad Afzal Khan Dhandla,PTI,MBBS,"Basti Mithoo P/O Basti Bakhtawar Hamoo Wala Tehsil & District Bhakkar.  E-301, Parliament Lodges, Islamabad",0333-3569600
+NA-99Chiniot-I,Mr. Mehar Ghulam Muhammad Lali,PTI,BA,"Moza kanvain wala Tehsil Lalian District Chiniot.  E-110, Parliament Lodges, Islamabad",0333-9704444
+NA-100Chiniot-II,Mr. Qaiser Ahmed Sheikh,PML-N,Master in Economics,"Moh. Rajewali Chiniot  J-510, Parliament Lodges, Islamabad",0333-4092693
+NA-101Faisalabad-I,Mr. Muhammad Asim Nazir,PTI,B.Com,"Chaudhary House Mohallah Forest Park Gatwala Faisalabad.  J-206, Parliament Lodges, Islamabad","041-8783681-83, 0300-8666666"
+NA-102Faisalabad-II,Mr. Nawab Sher,PTI,Graduation,"Mohalla Bala Gang Jaranwala.  C-107, Parliament Lodges, Islamabad","0414-312666, 0345-4220000"
+NA-103Faisalabad-III,Mr. Ali Gohar Khan,PML-N,Intermediate ,"Chak No. 455-GB, Tehsil Tandlianwala district Faisalabad  Suite No. H-10, Parliament Lodges, Islamabad",0300-8666777
+NA-104Faisalabad-IV,Ch. Muhammad Shahbaz Babar,PML-N,Graduation,"Karmanwali Haveli Sharif Abad Chak No.461 GB Fouji Lahorian, Tehsil Samundri.  E-103, Parliament Lodges, Islamabad","0300-8220184, 0300-8294141"
+NA-105Faisalabad-V,Mr. Raza Nasrullah,PTI,Bachelors in Arts Degree,"Chak No.204-RB, Canal Road Mohalla Raza Gardan, Faisalabad.  J-304 Parliament Lodges, Islamabad","041-9220555, 0321-8665582"
+NA-106Faisalabad-VI,Rana Sana Ullah Khan,PML-N,B.com,"House No.12, Mohallah Samanabad, Block C, Faisalabad.  G-103, Parliament Lodges, Islamabad",0300-8887070
+NA-107Faisalabad-VII,Mr. Khurram Shahzad,PTI,Graduation,"House No.488-D Peoples Colony No.F-1, Faisalabad.  F-102, Parliament Lodges, Islamabad",0300-0661919
+NA-108Faisalabad-VIII,Mr. Farrukh Habib,PTI,B.com,"House No. 630, Sarfraz Colony, Faisalabad  C-303, Parliament Lodges, Islamabad","0321-8181400, 0315-7338822"
+NA-109Faisalabad-IX,Mr. Faiz Ullah,PTI,MBA ,"Chak No.214 RB, DudhiWala Kalan Faisalabad.  F-101, Parliament Lodges, Islamabad","041-8732214, 0300-8658800"
+NA-110Faisalabad-X,Raja Riaz Ahmad,PTI,Bachelor in Arts Degree,"House No.628/B, Green View Colony, Raja Wala, Faisalabad.  F-107, Parliament Lodges, Islamabad",041-2617083
+NA-111Toba Tek Singh-I,Chaudhary Khalid Javed,PML-N,Matric ,"Warraich House Pensara Road Bypass Gojra Distt Toba Tek Singh  C-109, Parliament Lodges, Islamabad","0463-512285, 0301-8657185"
+NA-112Toba Tek Singh-II,Mr. Muhammad Junaid Anwar Chaudhry,PML-N,Bachelor in Arts Degree,"Al Halal Factory Shorkot Road Toba Tek Singh  J-212, Parliament Lodges, Islamabad",0321-4781478
+NA-113Toba Tek Singh-III,Mr. Riaz Fatyana,PTI,MSc,"House No. 1091, Street No. 32, Block ""D"", DHA Phase-VI, Lahore  A-209, Parliament Lodges, Islamabad","0300-6555555, 0300-9442222"
+NA-114Jhang-I,Sahibzada Muhammad Mehboob Sultan,PTI,BA,"P.O. Khas Darbar Hazrat Sultan Bahoo Tehsil Ahmed Pur Sial Jhang.  H-301 Parliament Lodges, Islamabad","047-5320555, 0300-4429782"
+NA-115Jhang-II,Ms. Ghulam Bibi Bharwana,PTI,Bachelor in Arts Degree,"Mouza Satiana Tehsil & District Jhang.  F-208, Parliament Lodges, Islamabad",N/A
+NA-116Jhang-III,Mr. Muhammad Ameer Sultan,PTI,LLM,"Mohallah Sultan Bahoo, Shorkot District Jhang.  F-304, Parliament Lodges, Islamabad","0300-8400061, 0333-3850061"
+NA-117Nankana Sahib-I,Ch Muhammad Barjees Tahir,PML-N,LLB,"Mohala Jamia Masjid Road Sangla Hill district Nankana Sahib.  C-205, Parliament    Lodges, Islamabad",0300-9482500
+NA-118Nankana Sahib-II,Mr. Ijaz Ahmad Shah,PTI,Army,"P.O Khas Nabi Pur Piran Tehsil & District Nakana Sahib.  H-201, Parliament Lodges Islamabad","37182067, 0300-8477729"
+NA-119Sheikhupura-I,Mr. Rahat Aman Ullah Bhatti,PTI,Bachelor in Arts Degree,"Hitchar Post Office Khass Tehsil Muridke District Sheikhupura.  E-412, Parliament Lodges, Islamabad","0323-4760306, 0309-6339920"
+NA-120Sheikhupura-II,Rana Tanveer Hussain,PML-N,LLB,"Mohallah Shaikhan Purana Narang Road Muridke.  E-203, Parliament Lodges, Islamabad","0321-8442255,   051-9213067"
+NA-121Sheikhupura-III,Mian Javed Latif,PML-N,Bachelor in Arts Degree,"Mian House, Habib Coloney Faisalabad Road,Shikhupura.  C-307, Parliament Lodges, Islamabad",0300-8438700
+NA-122Sheikhupura-IV,Sardar Muhammad Irfan Dogar,PML-N,Bachelor in Arts Degree,"PO Khas Kakar Gill, Tehsil & District Sheikhupura.  A-205, Parliament Lodges, Islamabad","0321-8468684, 0301-8468684"
+NA-123Lahore-I,Mr. Muhammad Riaz,PML-N,Bachelor in Arts Degree,"House No. 2, Street No.17, Mohalla Khawaja Street, Shandra Town, Lahore.  G-407, Parliament Lodges, Islamabad","0321-8483565, 0324-4354339"
+NA-124Lahore-II,Mr. Shahid Khaqan Abbasi,PML-N,MSc,"Village Davel Sharif, Tehsil Murree, District Rawalpindi  J-09, Parliament Lodges Islamabad  House No. 4, Street 17, F-7/2, Islamabad",0300-8282942
+NA-125Lahore-III,Mr. Waheed Alam Khan,PML-N,Master in Economics.,"Gumbat Road, New Anarkali, Bangali Gali No.7, H.No.1, Lahore  G-410 Parliament Lodges, Islamabad","0322-4826839, 042-37231698"
+NA-126Lahore-IV,Mr. Muhammad Hammad Azhar,PTI,law Graduate,"House No.183, Abu Bakar Block New Gardan Town Lahore  H.No.4, Minister Enclave, Islamabad","0423-5832786, 0345-8415000"
+NA-127Lahore-V,Mr. Ali Pervaiz,PML-N,MSc,"E-I, House No.142, Gulberg III, Lahore.  C-402, Parliament Lodges, Islamabad",N/A
+NA-128Lahore-VI,Sheikh Rohale Asghar,PML-N,Bachelors in Information Technology,"Sunny Biscuits Factory, G.T. Road, Daroghawala, Lahore.  C-106, Parliament Lodges, Islamabad","0322-4755555, 0300-8458485"
+NA-129Lahore-VII,Sardar Ayaz Sadiq,PML-N,Graduation in commerce,"Justice Sardar lqbal Road of Zafar Ali Road Gulberg-V, House No.17, Lahore.  C-202, Parliament Lodges, Islamabad","0300-8426700, 042-35753175"
+NA-130Lahore-VIII,Mr. Shafqat Mahmood,PTI,MA,"23 Aifak Block New Garden Town, Lahore  A-110, Parliament Lodges, Islamabad","042-5692021, 0300-8448444"
+NA-131Lahore-IX,Khawaja Saad Rafique,PML-N,BA in Political science,"H.No.86, Block-D, DHA, Lahore Cantt.  J-10, Parliament Lodges Islamabad",N/A
+NA-132Lahore-X,"Mian Muhammad Shehbaz Sharif, Prime Minister Islamic Republic of Pakistan",PML-N,Bachelor of Arts,"96-H, Model Town, Lahore",042-35888703
+NA-133Lahore-XI,Ms. Shaista Pervaiz Malik,PML-N,Masters,"House No.142-E/1, Mohallah Gulberg-III, Lahore",N/A
+NA-134Lahore-XII,Rana Mubashir Iqbal,PML-N,Bachelors in Arts,"Defence Road, House No.4C, Mohalla Khayaban e Amin Housing Society Lahore.  Suite No. 30 Govt. Hostel, Islamabad","0300-4007953, 0300-4211007"
+NA-135Lahore-XIII,Malik Karamat Ali Khokhar,PTI,Bachelors in Arts,"House No.224-R-II, Mohallah Johar Town, Lahore.  H-209, Parliament Lodges, Islamabad",0300-8434510
+NA-136Lahore-XIV,Mr. Muhammad Afzal Khokhar,PML-N,Bachelors in Arts,"Samsanee Khoi, Johar Town, Lahore.  C-203, Parliament Lodges, Islamabad",0302-4593544
+NA-137Kasur-I,Mr. Saad Waseem,PML-N,LLB,"Main Circular Road Mohallah Bairoon Mori Gate, Kasur.  F-402, Parliament Lodges, Islamabad",0323-2227999
+NA-138Kasur-II,Mr. Rasheed Ahmad Khan,PML-N,Bachelor of Laws,"Post Office Dost Pura Fateh Pur Kasur.  E-106, Parliament Lodges, Islamabad","0300-6599700, 0323-8566666"
+NA-139Kasur-III,Rana Muhammad Ishaq Khan,PML-N,MSc,"Gulzar Jageer PO Khas Pattoki.  G-312, Parliament Lodges, Islamabad","049-4511666, 0333-4511666"
+NA-140Kasur-IV,Sardar Talib Hassan Nakai,PTI,Graduation,"H.No.58-E/1, Gulberg-III, Lahore  F-110, Parliament Lodges, Islamabad","0321-8465577, 0300-8465577"
+NA-141Okara-I,Mr. Nadeem Abbas,PML-N,Bachelor in Arts,"Chak Khan Muhammad P.O Fateh Pur Okara.  E-111, Parliament Lodges, Islamabad",0300-6959550
+NA-142Okara-II,Mr. Riaz Ul Haq,PML-N,LLB,"14-C, Model Cooperative Housing society Okara.  A-103, Parliament Lodges, Islamabad","0300-5113380, 0300-4298829"
+NA-143Okara-III,Rao Muhammad Ajmal Khan,PML-N,Bachelor in Arts ,"Burj Alyas Khan, Nizam Din, Depalpur District Okara  A-101, Parliament Lodges, Islamabad","0321-4665050, 0444-4541111"
+NA-144Okara-IV,Mr. Muhammad Mueen Wattoo,PML-N,LLB,"Jamal Kot Tehsil Depalpur District Okara  J-307, Parliament Lodges, Islamabad","0300-4002334, 0302-9848678"
+NA-145Pakpattan-I,Mr. Ahmad Raza Maneka,PML-N,BBA,"Pir Ghani, Post Office Khas, Pakpattan.  E-304, Parliament Lodges, Islamabad",0300-8452073
+NA-146Pakpattan-II,Rana Iradat Sharif Khan,PML-N,MBA ,"House No.64, Mohalla Gulshan lqbal Colony, Arifwala District Pakpattan  H-312, Parliament Lodges, Islamabad","051-9212892, 0345-8446949"
+NA-147Sahiwal-I,Syed Imran Ahmad Shah,PML-N,LLB,"Sadaat Manzi! Nai Abadi Sahiwal.  Suite No. 21, Old MNA Hostel, G-5, Islamabad","0322-7007000, 0321-6060101"
+NA-148Sahiwal-II,Chaudry Muhammad Ashraf,PML-N,BS,"PO Same Chak No. 56/12-L, CCI, Chitchawatni.  J-306, Parliament Lodges, Islamabad","0404-551439, 0321-4549752"
+NA-149Sahiwal-III,Mr. Rai Muhammad Murtaza Iqbal,PTI,LLB,"Rai House Railway Road H#1 Chichawatni  H-112, Parliament Lodges, Islamabad","0405-486333, 0334-6423028"
+NA-150Khanewal-I,Syed Fakhar Imam,PTI,BS,"H.No.12 Officer Colony, Khanewal Road Chungi 9 P.O. Gulgasht, Multan.  H-208 Parliament Lodges, Islamabad",0302-8635067
+NA-151Khanewal-II,Mr. Muhammad Khan Daha,PML-N,BSc,"Nouse No.466, Daha House Old Khanewal  E-109, Parliament Lodges, Islamabad","065-2552728, 042-35762515"
+NA-152Khanewal-III,Mr. Zahoor Hussain Qureshi,PTI,MBA ,"Chak No.44/15-L Mian Channu, Khanewal.  G-203, Parliament Lodges, Islamabad","042-35763212, 0345-4444744"
+NA-153Khanewal-IV,Chaudhry Iftikhar Nazir,PML-N,Bachelor in Arts ,"House No.13, Block 3, Jahanian  J-404, Parliament Lodges, Islamabad","0342-9111111, 0302-8471212"
+NA-154Multan-I,Mr. Ahmed Hussain Deharr,PTI,LLB,"Near Multan Public School Durana Lagana Tehsil and District Multan.  H-106, Parliament Lodges, Islamabad","0321-4872043, 0300-9635599"
+NA-155Multan-II,Malik Muhammad Amir Dogar,PTI,Master of Arts in Political Science,"Gujjar Sher Shah Road H.No.503, Multan Cantt Multan  E-204, Parliament Lodges, Islamabad","061-9201186, 0300-8730786"
+NA-156Multan-III,Makhdoom Shah Mahmood Hussain Qureshi,PTI,BA,Bab-Al-Quresh Daulat Gate Circular Road House No445AN-6M Multan.,N/A
+NA-157Multan-IV,Makhdoom Zain Hussain Qureshi,PTI,Bachelor in Arts ,"Bab-Al-Quresh Daulat Gate Circular Road House No445NV-6M Multan.  A-208, Parliament Lodges, Islamabad Room No.307, 3rd Floor, Block-Q, M/O Finance, Islamabad",N/A
+NA-158Multan-V,Mr. Muhammad Ibrahim Khan,PTI,MBA ,"H.No.3704/70 Hassan Parwana Colony P/O GPO Multan.  E-306, Parliament Lodges, Islamabad",0300-8633665
+NA-159Multan-VI,Rana Muhammad Qasim Noon,PTI,MA,"H.No.195, Mohallah Khalid Colony, Al-Tamash Road, Multan.  C-407, Parliament Lodges, Islamabad","0323-5741457, 0300-8633155"
+NA-160Lodhran-I,Mr. Abdul Rehman Khan Kanju,PML-N,O-Level,"P/O Ameer Pur Sadat, All Pur Kanju, Tehsil Kehror Pacca, District Lodhran.  C-405, Parliament Lodges, Islamabad",0306-2666666
+NA-161Lodhran-II,Mian Muhammad Shafiq,PTI,BA,"Post Office Jalla Arian Tehsil Dunyapur, District Lodhran.  G-210, Parliament Lodges, Islamabad","0300-4506282, 0345-8886282"
+NA-162Vehari-I,Choudhary Faqir Ahmad,PML-N,LLB,"Chak No.405/EB, Burewala.  C-110, Parliament Lodges, Islamabad","0321-6991929, 0333-6991929"
+NA-163Vehari-II,Mr. Sajid Mehdi,PML-N,Master in Arts,"Civil Lines House No.16 Block-1, Burewala, District Vehari.  E-102, Parliament Lodges, Islamabad",0300-8448984
+NA-164Vehari-III,Mr. Tahir Iqbal,PTI,Bachelor in Arts ,"Chak No.47/W,B Vehari.  J-409, Parliament Lodges, Islamabad",0300-7729347
+NA-165Vehari-IV,Mr. Aurangzeb Khan Khichi,PTI,LLM,"P/O Fadda Tehil Mailsi District Vehari.  H-303, Parliament Lodges, Islamabad",0300-7729003
+NA-166Bahawalnagar-I,Mr. Muhammad Abdul Ghafar Wattoo,PTI,Engineering,"P/O Mecleod Gunj Khola Mirzayka Tehsil Minchanabad District Bahawalnagar.  J-508, Parliament Lodges, Islamabad","0300-7580567, 0300-4124341"
+NA-167 Bahawalnagar-II,Mr. Alam Dad Laleka,PML-N,A-Level,"Joiya House Haroonabad District Bahawalnagar.  J-204, Parliament Lodges, Islamabad",0300-4542094
+NA-168 Bahawalnagar-III,Mr. Ehsan Ul Haq Bajwa,PML-N,Diploma ,"PO Khas ChakNo.174/Murad Tehsil Chishtian, Bahawalnagar.  J-412 Parliament Lodges, Islamabad","0307-7474174, 00971556174174"
+NA-169 Bahawalnagar-IV,Mr. Noor Ul Hassan Tanvir,PML-N,Matric,"House No.03 Kehkashan Street No.08 Gulgasht Colony Multan.  A-408, Parliament Lodges, Islamabad","00971504521130, 0333-4141444"
+NA-170 Bahawalpur-I,Mr. Muhammad Farooq Azam Malik,PTI,Master of Arts,"Al-Awan, Goth Gadra near Satellite Town, Bahawalpur.  F-201, Parliament Lodges, Islamabad","0300-8544392, 0300-9685372"
+NA-171 Bahawalpur-II,Mian Riaz Hussain Pirzada,PML-N,LLB,"Sheikh Wahin P/O Tehsil Khairpur Tamewali, Bahawalpur.  E-107, Parliament Lodges, Islamabad","051-2613514, 0300-5007649"
+NA-172 Bahawalpur-III,Chaudhary Tariq Bashir Cheema,PML,BA,"H.No.35-A Mohallah Sattelite Town Bahawalpur.  H.No.21, Minister Enclave, Islamabad","062-2286474, 0345-8776222"
+NA-173 Bahawalpur-IV,Mian Najeeb Ud Din Awaisi,PML-N,Graduation,"PO Khas Khankah Sharif Tehsil Sadar BWP, District Bahawalpur.  F-303, Parliament Lodges, Islamabad",0300-9681512
+NA-174 Bahawalpur-V,Makhdoom Syed Sami Ul Hassan Gillani,PTI,Masters of Economics,"Makhdoom House, Opp. Girls college, UCH Sharif Ahmadpur East, Bahawalpur.  E-104, Parliament Lodges, Islamabad",0300-8689998
+NA-175 Rahim Yar Khan-I,Syed Mobeen Ahmed,PTI,Graduation,"Mohsinabad, Taranda Muhammad Panah, Tehsil Liaquatpur.  G-305, Parliament Lodges, Islamabad","0333-3330786, 0302-4526266"
+NA-176 Rahim Yar Khan-II,Sheikh Fayyaz Ud Din,PML-N,Matric ,"House No.129 Model Town A Khan Pur, District Rahimyarkhan.  A-404, Parliament Lodges, Islamabad","068-5572222, 0300-8670701"
+NA-177 Rahim Yar Khan-III,Makhdoom Khusro Bukhtiar,PTI,LLB,"H.No.1, Post Office Khas Mian Wali Querashian, Rahim Yar Khan.  Office No. 313, Stock Exchange Tower, Islamabad",0333-5223000
+NA-178 Rahim Yar Khan-IV,Syed Mustafa Mahmud,PPPP,BSc,"Jamal Din Wali Sadiq Abad District Rahimyar Khan  H-111, Parliament Lodges, Islamabad","042-35833124-5, 0300-9509820"
+NA-179 Rahim Yar Khan-V,Chaudhary Javed Iqbal Warraich,PTI,LLB,"Chak No.107/P Tehsil & District Rahimyarkhan.  H-304, Parliament Lodges, Islamabad",0300-8674107
+NA-180 Rahim Yar Khan-VI,Syed Murtaza Mahmud,PPPP,Bachelor of Arts (Honours) in Economics,"House No.101-B, Mohallah Model Town, Lahore.  G-311, Parliament Lodges, Islamabad","051-8736788, 0333-4112299"
+NA-181 Muzaffargarh-I,Mr. Muhammad Shabbir Ali,PTI,BDS,"P/O Sheikh Umar Mustaqil, Tehsil Kot Addu, District Muzaffargarh.  House No. 11, Minister's Enclave, Sector F-5/2, Islamabad","0333-4480025, 0300-5052741"
+NA-182 Muzaffargarh-II,Mahar Irshad Ahmad Khan,PPPP,Bachelor in Arts,"Basti Kale Wala, PO Muradabad, Muzaffargarh.  C-408, Parliament Lodges, Islamabad","0300-7480848, 0345-8535551"
+NA-183 Muzaffargarh-III,Mr. Raza Rabani Khar,PPPP,LLB,"Khar Gherbi P/O Khas Sianwan Tehsil Kot Addu District Muzaffargarh.  F-106, Parliament Lodges, Islamabad",0343-2222233
+NA-184 Muzaffargarh-IV,Nawabzada Iftakhar Ahmed Khan Babar,PPPP,LLB,"Khan Garh Tehsil & District Muzaffargarh.  E-311, Parliament Lodges, Islamabad","0301-6555503, 0333-6035503"
+NA-185 Muzaffargarh-V,Mr. Makhdom Zada Sayed Basit Ahmad Sultan,PTI,Graduation,"Khoti Nawab Sahib GT Road Kandh Shareef P/O Kotla Rahim Ali Shah Jatoi District Muzaffargarh.  H-103, Parliament Lodges, Islamabad",0300-8731414
+NA-186 Muzaffargarh-VI,Mr. Aamir Talal Gopang,PTI,Graduation,"Gopang House Circular Road All Pur Tehsil Ali pur District Muzaffargarh.  G-105, Parliament Lodges, Islamabad",0321-2222174
+NA-187 Layyah-I,Mr. Abdul Majeed Khan,PTI,BS,"Basti Khokharan Ward No.3 Gulshan Wahid Karor District Layyah.  J-503, Parliament Lodges, Islamabad","0303-3433333, 0333-3433333"
+NA-188 Layyah-II,Mr. Niaz Ahmed Jakhar,PTI,LLB,"Jakhar House Choungi No.6, Layyah  G-406, Parliament Lodges, Islamabad",0300-5234200
+NA-189 D.G.Khan-I,Mr. Khawja Sheraz Mehmood,PTI,BSc,"Multan Public School Road, Multan.  F-203, Parliament Lodges, Islamabad",0335-6023866
+NA-190 D.G.Khan-II,Mr. Muhammad Amjad Farooq Khan Khosa,PTI,BS in Arts & Law,"Bahadur Garh House, PO Khas Chorhatta Sindh Janubi Tehsil District D.G.Khan  H-404, Parliament Lodges, Islamabad",0300-4545555
+NA-191 D.G.Khan-III,Ms. Zartaj Gul,PTI,Graduate Textile Design,"House No.133 Block No.11 Dera Ghazi Khan.  H-201, Parliament Lodges, Islamabad",N/A
+NA-192 D.G.Khan-IV,Sardar Muhammad Khan Laghari,PTI,LLB,"Choti Zarin Chak Bakhar P/O Khas, Tehsil Kot Chutta District D.G.Khan.  E-401, Parliament Lodges, Islamabad",0300-8463400
+NA-193 Rajanpur-I,Sardar Muhammad Jaffar Khan Leghari,PTI, B.Sc in Agriculture,"P/O Kot Jannu Tehsil Jampur, District Rajanpur.  A-309, Parliament Lodges, Islamabad","0300-8446293, 0333-4322291"
+NA-194 Rajanpur-II,Sardar Nasrullah Khan Dreshak,PTI,LLB,"Kot Bahadur P/O Kotla Naseer Rajanpur.  E-404, Parliament Lodges, Islamabad",0333-9786786
+NA-195 Rajanpur-III,Sardar Riaz Mehmood Khan Mazari,PTI,Matric ,"Tribal Area Ozman Tehsil Rojhan District Rajanpur.  G-409, Parliament Lodges, Islamabad",0333-6494444
+NA-196 Jacobabad,Mr. Muhammad Mian Soomro,PTI,MS in Physics,"Soomro House Faran Society, Bahadurabad, Karachi  H.No.3, St. 14-A, F-7/2, Islamabad","0300-8250090, 0300-4016483"
+NA-197 Kashmore,Mr. Ehsan Ur Rehman Mazari,PPPP,O-Level,"Mazari House Colony No.1, Kashmore.  G-207, Parliament Lodges, Islamabad",0333-4999619
+NA-198Shikarpur-I,Mr. Abid Hussain Bhayo,PPPP,Masters in Arts,"Village Jagan PO Jagan District Shikarpur.  J-303, Parliament Lodges, Islamabad",0344-6440208
+NA-199Shikarpur-II,Mr. Ghous Bux Khan Mahar,GDA,Bachelor in Arts,"Wazirabad Taluka Lakhi Ghulam Shah, District Shikarpur.  A-407, Parliament Lodges, Islamabad",0300-8565532
+NA-200Larkana-I,Mr. Bilawal Bhutto Zardari,PPPP,Bachelor in Arts,"Bhutto House Naudero, District Larkana.  Zardari House St. 19, F-8, Islamabad",N/A
+NA-201Larkana-II,Mr. Khursheed Ahmed Junejo,PPPP,BS & MS in Arts,"Goth Dhamrah P.O. Dhamrah Taluka & District Larkana  J-203, Parliament Lodges, Islamabad","0321-6866688, 0300-3412966"
+NA-202Kamber Shahdadkot-I,Mr. Aftab Shahban Mirani,PPPP,Bachelor in Arts,"Shahban Road Mirani Muhalla Shikarpur.  J-308, Parliament Lodges, Islamabad",0344-2481454
+NA-203Kamber Shahdadkot-II,Mir Amer Ali Khan Magsi,PPPP,Bachelor in Arts,"Muhalla Magsi farm Shandadkot.  C-104, Parliament Lodges, Islamabad",0333-2828281
+NA-204Ghotki-I,Mr. Khalid Ahmed Khan Lund,PPPP,Bachelor in Arts,"Village Khalidabad P.O. Jarwar Taluka Mirpur Mathelo district Ghotki.  A-403, Parliament Lodges, Islamabad",0300-0988888
+NA-205Ghotki-II,Sardar Muhammad Bux Khan Mahar,PPPP,Businessman,"Village Khangarh Shareef P.O.Khanpur Mahar, District Ghotki",0321-5444444
+NA-206Sukkur-I,Syed Khursheed Ahmed Shah,PPPP,LLB,"Manzil Gah Road Sukkur District Sukkur.  C-105, Parliament Lodges, Islamabad","0333-7101623, 0334-7102222"
+NA-207Sukkur-II,Mr. Nauman Islam Shaikh,PPPP,Graduation,"House No.C-416/2, Mohalla Upper Queens Road, Sukkur.  H-302, Parliament Lodges, Islamabad","0313-7111111, 0331-7111111"
+NA-208Khairpur-I,Dr. Nafisa Shah,PPPP,Doctorate in Social and Cultural Anthropology,"Muhalla Jillani Near Javed Cenima Khairpur.  E-212, Parliament Lodges, Islamabad",N/A
+NA-209Khairpur-II,Pir Syed Fazal Ali Shah Jillani,PPPP,Bachelor in Arts,"Mohalla Ahmedpur, Ranipur Taluka Sobhodero.  J-202, Parliament Lodges, Islamabad","0333-5299323, 0347-5716910"
+NA-210Khairpur-III,Syed Javed Ali Shah Jillani,PPPP,Bachelor in Arts,"Mohalla Jillani House, Taluka & District Khairpur.  C-406 Parliament Lodges, Islamabad","0333-5166966, 0300-2005556"
+NA-211Naushero Feroze-I,Syed Abrar Ali Shah,PPPP,LLB,"Ward No.4, Town Committee Halani, Taluka Mehrabpur, District Naushero Feroze.  A-201, Parliament Lodges, Islamabad","0345-5922222, 0300-3235789"
+NA-212Naushero Feroze-II,Mr. Zulfiqar Ali Behan,PPPP,M.A in Political science,"Village Dheran Taluka Moro District Naushero Feroze.  C-310, Parliament Lodges, Islamabad","0322-2022225, 0300-2022225"
+NA-213Shaheed Benazirabad-I,Mr. Asif Ali Zardari,PPPP,Graduation,"Zardari House, Housing Society Nawabshah.  Zardari House St. 19, F-8, Islamabad",051-2255264
+NA-214Shaheed Benazirabad-II,Syed Ghulam Mustafa Shah,PPPP,Graduation,"Syed Muhalla 12 Mehrabpur P.O. Mehrabpur, Shaheed Benazirabad.  C-103, Parliament Lodges, Islamabad",0300-8222666
+NA-215Sanghar-I,Mr. Naveed Dero,PPPP,BBA,"Village Mullan Makhan P.O. Mullan Makhan Kumb Darhoon Taluka Tando Adam District Sanghar  J-405, Parliament Lodges, Islamabad",N/A
+NA-216Sanghar-II,Ms. Shazia Marri,PPPP,Graduation,"Marri House, Berani, Sanghar  E-210, Parliament Lodges, Islamabad",Twitter: @ShaziaAttaMarri
+NA-217Sanghar-III,Mr. Roshanuddin Junejo,PPPP,BA in Political Science,"Village Haji Sanjar Khan Junejo, Deh Dadi, Taluka Tando Adam DistrictSanqhar.  C-309, Parliament Lodges, Islamabad","0235-475184,051-9212749"
+NA-218Mirpurkhas-I,Mr. Ali Nawaz Shah,Ind,LLB,"Village Ghulam Hyder Shah Taluka Shujabad,Mirpurkhas.  E-209, Parliament Lodges, Islamabad","021-35840560, 0300-2941710"
+NA-219Mirpurkhas-II,Mir Munawar Ali Talpur,PPPP,Graduation,"Deh: 228, Kot Mirs, Taluka Kot Ghulam Muhammad, District Mirpurkhas.  E-208, Parliament Lodges, Islamabad","021-35834656-5, 0334-6699989"
+NA-220Umerkot,Nawab Muhammad Yousuf Talpur,PPPP,Master in Arts,"Sindhi Muslim Housing Society, Hyderabad.  A-105, Parliament Lodges, Islamabad","021-35882841, 0300-8274633"
+NA-221Tharparkar-I,Pir Ameer Ali shah Jeelani,PPPP,MA,"Drgah Sharif Pir Noor Muhammad Shah Lakhyar, Tapal Ghar Kamaro Sharif, District Tando Allahyar  F-109, Parliament Lodges, Islamabad",0300-3003007
+NA-222Tharparkar-II,Mr. Mahesh Kumar Malani,PPPP,MBBS,"Brahman Para Mithi District Tharparkar.  J-406, Parliament Lodges, Islamabad",0333-2645456
+NA-223Matiari,Makhdoom Jameel Uz Zaman,PPPP,MA,"Makhdoom House Hala New District Matiari.  C-209, Parliament Lodges, Islamabad",0300-2714888
+NA-224Tando Allahyar,Mr. Zulfiqar Bachani,PPPP,BBA,"Bachani House Near Sattar Petrol Pump Tando Allahyar.  E-201, Parliament Lodges, Islamabad",0300-8251299
+NA-225Hyderabad-I,Syed Hussain Tariq,PPPP,BSc,"House No.79-A Unit No.3 Latifabad Hyderabad.  J-311, Parliament Lodges, Islamabad",0300-3055166
+NA-226Hyderabad-II,Engr. Sabir Hussain Kaim Khani,MQMP,Bachelor of Engineering in Mechanical Engineering,"A-80 Block Unit # 04, Latifabad, Hyderabad.  E-410, Parliament Lodges, Islamabad",0300-9379456
+NA-227Hyderabad-III,Mr. Salahuddin,MQMP,Master in Arts,"H.No.D/68-1025, Bhai Khan Chari, Hyderabad.  E-411, Parliament Lodges, Islamabad",0321-2700058
+NA-228TANDO MUHAMMAD KHAN,Syed Naveed Qamar,PPPP,MBA ,"Haji Pur, Post Office, Wasi Malook Shah, Taluka Bulri Shah Karim District Tando Muhammad Khan.  C-305, Parliament Lodges, Islamabad",0300-5000222
+NA-229Badin-I,Mir Ghulam Ali Talpur,PPPP,Matric,"Ward No.1 Mir TandoGhulam All Mohalla Taluka Matti District Badin.  J-309, Parliament Lodges, Islamabad",0333-2600721
+NA-230Badin-II,Dr. Fehmida Mirza,GDA,MBBS,"Mirza Farm, Jakheji-1, Taluka Shaheed Fazil Rahu, District Badin.",N/A
+NA-231Sujawal,Syed Ayaz Ali Shah Sheerazi,PPPP,Bachelor in Arts,"Village Syedpur Taluka and District Sujawal.  H-203, Parliament Lodges, Islamabad",0300-7741111
+NA-232Thatta,Ms. Shams Un Nisa,PPPP,Matric,"Islampur Mohallah Ward No.03 Thatta Town, District Thatta.  F-204, Parliament Lodges, Islamabad",0300-9258373
+NA-233Jamshoro,Mr. Sikandar Ali Rahoupoto,PPPP,Master in Arts,"Rahpota House Sehwan Shareef District Jamshoro.  H-101, Parliament Lodges, Islamabad",0300-3279093
+NA-234Dadu-I,Mr. Irfan Ali Laghari,PPPP,BA,"Parya Village P.O. Sita Road Taluka K.N Shah District Dadu.  G-104, Parliament Lodges, Islamabad",0345-3858178
+NA-235 Dadu-II,Mr. Rafique Ahmed Jamali,PPPP,Master in Arts,"Village Bahwalpur Taluka Johi District Dadu.  A-203, Parliament Lodges, Islamabad",0307-3335555
+NA-236 Malir-I,Jam Abdul Karim Bijar,PPPP,A-Level,"Jam Murad All Khan Jokhio Goth House No.23, Post Office Murad Memon Goth Malir Karachi.  G-107, Parliament Lodges, Islamabad",0345-4502010
+NA-237 Malir-II,Mr. Jamil Ahmed Khan,PTI,Bachelors in Economics and Political Science,"House # SU-234, Sector G, Askari-V, Malir Cantt, Karachi  Suite No.31, Govt. Hostel, Islamabad",0324-5454654
+NA-238 Malir-III,Syed Agha Rafiullah,PPPP,FA,"Flat No.5, Block No.12, PHA Society Malir, Karachi.  G-303, Parliament Lodges, Islamabad","051-9218495, 0300-3111786,0315-3511721"
+NA-239 Korangi Karachi-I,Mr. Muhammad Akram Cheema,PTI,Intermediate ,"House No.204-A DOHS 1 Malir Cantt Karachi.  A-402, Parliament Lodges, Islamabad",0321-9988866
+NA-241 Korangi Karachi-III,Mr. Faheem Khan,PTI,Matric,"196 Kh-e-Muhammad Hussain Shaheed, Phase VII Ext., DHA, Karachi  J-511, Parliament Lodges, Islamabad",0333-2294312
+NA-242 Karachi East-I,Mr. Saif Ur Rehman,PTI,Master in Arts,"House No.N 595, Metroville IIIrd Gulshan E lqbal Block 1 Karachi  A-104, Parliament Lodges, Islamabad","0300-2730072, 0321-2291007"
+NA-243 Karachi East-II,Mr. Muhammad Alamgir Khan,PTI,MBA ,"House No. D-141, Block-7, Gulshan-e-Iqbal, Karachi",0301-2127007
+NA-244 Karachi East-III,Syed Ali Haider Zaidi,PTI,Graduation,"House No.110, 22nd Street DHA Phase-VI, Karachi  G-201, Parliament Lodges, Islamabad",0321-8239007
+NA-245 Karachi East-IV,Mr. Aamir Hussain,PTI,BA & MA,"H#12 Prime View Apartment F#201, KDA Scheme-Clifton Block, Karachi.  J-305, Parliament Lodges, Islamabad",0300-8265333
+NA-246 Karachi South-I,Mr. Abdul Shakoor Shad,PTI,Masters,"House No.K-24/6, S-147, Nabi Dad Lane Gabol Road Lyari, Karachi.  Suite No.412-E, Parliament Lodges, Islamabad",0333-2776888
+NA-247 Karachi South-II,Mr. Aftab Hussain Siddique,PTI,Graduation,"House No. 75-B, Khayaban-e-Shehbaz, Phase VI DHA, Karachi South.",N/A
+NA-248 Karachi West-I,Mr. Abdul Qadir Patel,PPPP,BA,"R/o House No.C-1/4 Maymar Lake View 3rd Floor Clifton Block-V, Karachi.  Suite No. 16, Government Hostel, Islamabad",0320-5555555
+NA-249 Karachi West-II,Mr. Qadir Khan Mandokhail,PPPP,LLB,"House No. E-77, Mohallah Defence View Phase-II, Jamshed Town, Karachi West",0301-8244472
+NA-250 Karachi West-III,Mr. Attaullah,PTI,Graduation,"House No.B-357, MPR Colony, Mangopir Road, Karachi.  Suite No.27, Govt. Hostel",0333-3075924
+NA-251 Karachi West-IV,Syed Amin Ul Haque,MQMP,Graduation,"House No.A-26, Block 19, Federal B. Area, District Central, Karachi.  J-502, Parliament Lodges, Islamabad",0300-3643517
+NA-252 Karachi West-V,Mr. Aftab Jehangir,PTI,Matric,"H.No.A-4, Tooba Apartment Phase-I, D.H.A, Karachi.  F-308, Parliament Lodges, Islamabad",0301-2865294
+NA-253 Karachi Central-I,Mr. Usama Qadri,MQMP,MA,"House No.C-91/1, Block-ANorth Nazimabad Karachi.  E-408, Parliament Lodges, Islamabad",0300-9219019
+NA-254 Karachi Central-II,Mr. Muhammad Aslam Khan,PTI,BA,"13/2, Khayaban-e-Rahat, Phase-6 DHA, Karachi.  H-211, Parliament Lodges, Islamabad",0321-2012244
+NA-255 Karachi Central-III,Dr. Khalid Maqbool Siddiqui,MQMP,MBBS,"R-301, Block-8, Azizabad Karachi.  J-501, Parliament Lodges, Islamabad",0300-2109090
+NA-256 Karachi Central-IV,Mr. Muhammad Najeeb Haroon,PTI,Engineering,"House No.51, 17th Lane Phase-VI!, DHA, Karachi.  Palwal House, Abbasi Hill Road, Bani Gala, Islamabad",0300-8253538
+NA-257 Killa Saifullah-cum-Zhob-cum-Sherani,Mr. Abdul Wasay,MMAP,Bachelors in Arts,"Post Office Nasai ghundaManna Tehsil Muslim Bagh, District Killa Saifullah.  C-301, Parliament Lodges, Islamabad",0301-8382111
+NA-258 Loralai-cum-Musa Khail-cum-Ziarat-cum-Dukki-cum-Harnai,Mr. Muhammad Israr Tareen,BAP,Graduation,"Killi Duki Old Duki, Post Office Duki, District Loralai.  C-204 Parliament Lodges, Islamabad",0345-8337056
+NA-259 Dera Bugti-cum-Kohlu-cum-Sibi-cum-Lehri,Nawabzada Shazain Bugti,JWP,Landlord,"Dera Bugti House, Dera Bugti Tehsil , District Dera Bugti  H.No.22, St. No.63, F/8-4, Islamabad F-307, Parliament Lodges, Islamabad","03002222938,03067435467,051-9262111,9207406"
+NA-260 Nasirabad-cum-Kachhi-cum-Jhal-Magsi,Mr. Khalid Hussain Magsi,BAP,Graduation,"Mohallah Khalid Magsi Post Office Jhal Magsi Jhal Karez Magsi Tehsil District Jhal Magsi.  G-304, Parliament Lodges, Islamabad",0334-8385566
+NA-261 Jafarabad-cum-Sohbatpur,Mir Khan Muhammad Jamali,PTI,Matric,"Goth Khan Garh Jamali, Mohallah Ward No.24, Dera Allah Yar Tehsil Jhatpat, District Jaffarabad.  H-308, Parliament Lodges, Islamabad",0347-2527590
+NA-262 Pishin,Mr. Kamal Uddin,MMAP,MS,"Toba Kakari Post Office Barshore Ghezha Tehsil Barshore District Pishin.  A-08 Parliament Lodges, Islamabad",0333-7792725
+NA-263 Killa Abdullah,Mr. Salahuddin Ayubi,MMAP,Graduation,"Suffah Town, Post Office Chaman, Karezat Roghani Tehsil Chaman,District Killa Abdullah  A-401, Parliament Lodges, Islamabad",0313-7622222
+NA-264 Quetta-I,Mr. Asmatullah,MMAP,Agriculturist ,"Post Office Killa Saifullah Alozai, Tehsil & District Killa Saifullah.  Suite No.34, Govt. Hostel, Islamabad",0341-8033717
+NA-265 Quetta-II,Mr. Muhammad Qasim Khan Suri,PTI,Master of Arts,"Airport Road, House No.41-A Mohalah Suri House Chiltan Housing Scheme, Quetta.",N/A
+NA-266 Quetta-III,Mr. Agha Hassan Baloch,BNP,LLB,"H.No.114 Mohallah OldPolice Line, Chaman Phatak Quetta .  E-406, Parliament Lodges, Islamabad",0300-3844271
+NA-267 Mastung-cum-Kalat-cum-Shaheed-Sikandarabad,Syed Mehmood Shah,MMAP,BA,"Muhallah Muslim Muhallah Kalat.  J-512, Parliament Lodges, Islamabad",0300-2342487
+NA-268 Chagai-cum-Nushki-cum-Kharan,Mr. Muhammad Hashim Notezai,BNP,M.Sc,"House.No 8-d Mohallah Shabaz Town Phase -2 , QuettaCantt Tehsil & District Quetta  J-507, Parliament Lodges, Islamabad",0332-8000742
+NA-269 Khuzdar,Mr. Muhammad Akhtar Mengal,BNP,Intermediate ,"R/o Sardari Shehr Wadh Post Office Wadh Teshil Wadh District Khuzdar  J-209, Parliament Lodges, Islamabad",0336-9114111
+NA-270 Panjgur-cum-Washuk-cum-Awaran,Mr. Ehsanullah Reki,BAP,BSc,"House No.A-90, Jinnah Town, Samanguli Road, Quetta  E-312, Parliament Lodges, Islamabad",0333-7855550
+NA-271 Kech,Ms. Zubaida Jalal,BAP,MA,Post Office Khas soro Tehsil Mand Districk Kech,N/A
+NA-272 Lesbela-cum-Gwadar,Mr. Mohammad Aslam Bhootani,Ind,Intermediate ,"Dureji P.O Tehsil DurejiDistrict Lasbela.  E-409, Parliament Lodges, Islamabad",0334-5255602
+RESERVED SEATS FOR WOMEN,Ms. Nafeesa Inayatullah Khan Khattak,PTI,Matric,"Badrashi Khel,  Manki Sharif, Nowshera.  H No.64, Main Margalla Road, F-6/3, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Sajida Begum,PTI,Graduation,"H.No. 110,  Shami Road Peshawar, Cantt.  F-206, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Naureen Farooq Ibrahim,PTI,Bachelors in Arts,"H.No. 33, Gul Hassan Road Kohat Cantt.  H. No. 383, F-8/3, Ismail Zabeeh Road, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shandana Gulzar Khan,PTI,LLB,"Village  Mashogagar, Kohat Road Peshawar.  G-308, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Uzma Riaz,PTI,B.ED,"Allama Iqbal Colony Muree Road Nawan Sher Town Committee, Abbottabad.  Suite No. 45, Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Zille Huma,PTI,MSC & Mphil,"H.No. 124, St.No. 5 Sector J-5, Phase-11 Hayatabad, Peshawar.  Suite No.29, Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shahida Akhtar Ali,MMAP,FA,"PAF Base Samungli, Quetta  G-208, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Begum Tahira Bukhari,PML-N,Graduation,"H.No. 6 Mujeeb Street, Rehman Housing Society Warsak Road, Peshawar  J-210, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shaheen Naz Saifullah,PTI,FA,"Toru, Tehsil & District Mardan",
+RESERVED SEATS FOR WOMEN,Ms. Tahira Aurangzeb,PML-N,FA,"780-F, Satellite Town, Rawalpindi  J-302, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Aysha Rajab Ali,PML-N,Graduation,"Ghak No. 455, GB, Jhok Mohallah Tandlian Wala, Faisalabad.  A-410, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Marriyum Aurangzeb,PML-N,MA,"Langar Kassi Rawat, Tehsil Muree Rawapindi  A-302, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shaza Fatima Khawaja,PML-N,Masters,"118-Mehmood Ghaznavi Road Sialkot, Cantt. Sialkot.  A-409 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Aisha Ghaus Pasha,PML-N,BS & MS in Arts,"H.No. 260, Block-A, Phase-S, DHA, Lahore Cantt. Lahore.  G-102 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Zahra Wadood Fatemi,PML-N,philanthropist,"H.No. 34, St. No.4, Gulraiz, Ghaklala Scheme-Ill, Rawalpindi.  Suite No.13, Govt. Hostel",
+RESERVED SEATS FOR WOMEN,Ms. Kiran Imran Dar,PML-N,Graduation,"Mumtaz Manzi!, St. No. 14, Fateh Sher Road, Mozang Road, Lahore.  A-303 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Romina Khurshid Alam,PML-N,Graduation,"Health Center Islamabad, G.T. Road Kamoki, Distt Gujranwala  F-309, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Musarrat Asif Khawaja,PML-N,Graduation,"H. No. 118, Mehmood Ghaznawi Road Sialkot, Cantt. Sialkot.  F-302, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Zaib Jaffar,PML-N,MA,"Chak No. 105-P, Jaffarabad, R.Y.Khan  House No.16, Street No.60, Sector F-6/3, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Samina Matloob,PML-N,MBBS,"Chak No. 100/M, Tehsil and District Lodhran  H-411 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shahnaz Saleem Malik,PML-N,Bachelor in Arts,"H.No. 2, Block-S, Khayaban-e- Sarwar, Tehsil and District D.G.Khan.  F-103 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Seema Mohiuddin Jameeli,PML-N,Graduation,"H.No. 406, St. No. 34, Sector 1-8/2, Islamabad.  F-105, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Maiza Hameed,PML-N,Graduation,"Chak No. 72/NP, Dakkhana R.Y.Khan, Tehsil and District R.Y.Khan.  House No.6, Main Nazimuddin Road, F-11/4, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Shireen M. Mazari,PTI,MBBS,"Mazari Form, Bangalow iccha, Kacha Mianwali No. 2, Rajanpur.  H. No. 248, St. No. 23, E-7, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Munaza Hassan,PTI,Graduation,"Dera Taj Shah, Bedian Road, Lahore Cantt. Lahore.  F-411, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Andleeb Abbas,PTI,MBA,"H.No.  288, XX-Phase-3,  DHA, Lahore Cantt. Lahore.  H-210, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Asma Qadeer,PTI,MA,"36-Executive  Lodges, Bahria Town, Rawalpindi.  J-10, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Aliya Hamza Malik,PTI,Graduation,"153-C, Phase-1, DHA, Lahore  Suite No.02 Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Javaria Zafar Aheer,PTI,Graduation,"H.No. 362, Officer Colony, Joharabad, Khushab.  H-405, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Kanwal Shauzab,PTI,Mphil,"House No.20-A, Civil Lines, Sargodha.  Family Suit No. 35, Government Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Seemi Bukhari,PTI,MBBS,"H.No. 200, Block-V, Phase-11, DHA, Lahore, Cantt. Lahore.  Suite No. 6 Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Sobia Kamal Khan,PTI,Masters,"109-B, Rajput Cooperative Housing Society Canal Bank Multan Road, Lahore.  F-111, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Nausheen Hamid,PTI,MBBS,"138 GT Road Crown State Baghbanpura,  Lahore.  Suite No.33 B Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Rubina Jamil,PTI,B.ED,"H.No. 99,  Sarwar Colony, Sarwar Road, Lahore, Cantt. Lahore.",
+RESERVED SEATS FOR WOMEN,Ms. Maleeka Ali Bokhari,PTI,Graduation,"H.No. 102, St. No. 11-C, Palm City  Khayaban-e-Tanveer, Rawalpindi.  F-408, Block F, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Fauzia Behram,PTI,Diploma,"Talagang Road Udharwal Tehsil & Distt. Chakwal.  J-407, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Rukhsana Naveed,PTI,B.ED,"25/1, St. No. 1, Sector-A, DHA, Phase-5, Lahore Cantt. Lahore.  Suite No. 5, Govt. Hostel, Islamabad.",
+RESERVED SEATS FOR WOMEN,Ms. Tashfeen Safdar,PTI,Graduation,"H.No.105, St.No.3, 1-J Colony, Kharian Cantt. Gujrat.  House No.13, Minister's Enclave,, Sector F-5, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Wajiha Qamar,PTI,Graduation,"261-B, EME Society, Multan Road, Lahore.  G-301, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Hina Rabbani Khar,PPPP,BSc,"H.No. 140-A, Phase-1, Defence Housing Society, Lahore.  F-312 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Farukh Khan,PML,Graduation,"H.No. 21, St. No. 30, F-8/1, Islamabad.",
+RESERVED SEATS FOR WOMEN,Ms. Shakila Luqman,PML-N,Graduation,"House No.63/3, Street No.9, Block C, DHA, PHA 8, Lahore Cantt., Lahore",
+RESERVED SEATS FOR WOMEN,Ms. Shagufta Jumani,PPPP,FA,"Baqil Pota Mohallah Matiari Pirza Mohalla Matiari  E-310, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Nasiba Channa,PPPP,FA,"Channa House, Baper Muhalla Ratodero, District Larkana  Suite No.36 Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Mussarat Rafique Mahesar,PPPP,Graduation,"Village Gahi Mahesar Taluka Mehar District Dadu.  G-403, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Naz Baloch,PPPP,BS,"16G Abdullah Baloch House Old Golimar Karachi.  G-106, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shahida Rehmani,PPPP,Graduation,"Shahrah-e-Rehmani  Gulshan- e-Maymar Sector Zll A-185 Karachi.  H-402, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Mahreen Razzaq Bhutto,PPPP,MBBS,"Mohalla Jillani Near Javed Cenima Khairpur.  F-311, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Dr. Shazia Sobia Aslam Soomro,PPPP,MBBS,"D-349 Near Jamia Masjid Pane Akil, Sukkur  G-401, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Shamim Ara Panhwar,PPPP,MA,"H.No. 84 Gulshan Nawab Colony, Mirpurkhas.  Suite No.12 Govt. Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Syma Nadeem,PTI,Masters,"PAF Falcon Complex H.No. H- 54 Street No. 14 Malir Cantt. District Malir.  A-01, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Ghazala Saifi,PTI,Graduation,"53/2, 24th Street, Khayaban-e- Badban DHA Phase# 5, Karachi  A-306, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Nuzhat Pathan,PTI,Master in Arts,"14/200 Abdullah  Bungalows Qasimabad Hyderabad.  G-402 Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Nusrat Wahid,PTI,B.ED,"House No.14/1 Street No.29, DHA Phase-V Karachi.  Suite No.46, Old MNA Hostel, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Kishwar Zehra,MQMP,Graduation,"H.No. 179-D KDA Scheme 1 Tipu Sultan Road Karachi.  E-407, Parliament Lodges, Islamabad.",
+RESERVED SEATS FOR WOMEN,Ms. Saira Bano,GDA,FA,"Muhalla Mehran Cotton Factory Shahdadpur, Tehsil Shahdadpur District Sanghar  C-207, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Aliya Kamran,MMAP,BS,"House No. 70 Circle No. 1 District Quetta  H-107, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Rubina Irfan,BAP,BS,"Chawani Kohing Kalat Tehsil District Kalat.  F-404, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Prof. Dr. Shahnaz Baloch,BNP,PHd,"House No. A-1 Mohallah lnscumb Road Quetta.  J-105, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR WOMEN,Ms. Munawara Bibi Baloch,PTI,FA,"Killi Shakar Khan Mane Jan Road, Oak Khana, Jail Road Hudda, Quetta  A-04, Parliament Lodges. Islamabad",
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Lal Chand,PTI,Graduation,"Mohalla Balmi Ward 312, Umer Kot   H-09, Parliament Lodges, Islamabad",0300-3302662
+RESERVED SEATS FOR NON-MUSLIM ,Ms. Shunila Ruth,PTI,Master in Arts,"House No.596-B, Pak Arab Housing Society, Lahore   H-06, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Ramesh Kumar Vankwani,PTI,Bachelords of Medicine,"Christal Hill Apartment Near Punjab House, Flat No.A-102, Mohallah Bath I Land Karachi Cantt. Tehsil & District Karachi South   H-05, Parliament Lodges, Islamabad",0333-2277370
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Jai Parkash,PTI,FA,"Flat No. 215, Block Pitch Mohalla Feroz Nana Road bath I Land Clifton Cantt. Tehsil & District Karachi   E-202, Parliament Lodges, Islamabad",0300-8264530
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Jamshed Thomas,PTI,FA,"Outside Kohati Gate, P.O. Yakatoot, Hattingabad Colony, Peshawar City   Suite No. 41, Govt. Hostel, Islamabad",0333-9047711
+RESERVED SEATS FOR NON-MUSLIM ,Dr. Darshan,PML-N,MBBS,"Mohalla Shahi Road, Mirpur Mathelo, District Ghotki   F-401 Parliament Lodges, Islamabad",0335-3155300
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Kesoo Mal Kheeal Das,PML-N,FA,"Dinani House, House No. 102/2, Street No.24, Muhallah Khiyaban-e-Muhafiz, Defence No. 06, Karachi   F-407 Parliament Lodges, Islamabad",0300-8265445
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Ramesh Lal,PPPP,B.Ed,"Habib Masjid Road, Madan Lal House, Shahdad Kot, House No. 1275/82-B, Larkana   G-212, Parliament Lodges, Islamabad",
+RESERVED SEATS FOR NON-MUSLIM ,Mr. Naveed Aamir Jeeva,PPPP,Graduation,"Jeeva Cartage, Lasal Colony, Phase-II, Mohallah Tariq Abad, Multan   Suite No. 25, Govt. Hostel, Islamabad",0304-5094204
+RESERVED SEATS FOR NON-MUSLIM ,Mr. James Iqbal,MMAP,FA,"Khalid Town, House No 601, Wazir Bagh Road, Street No. 2, Peshawar   Suite No.25, Govt. Hostel",
